@@ -7,8 +7,8 @@ namespace myDictionary
         static void Main(string[] args)
         {
             MyDictionary<int, string> myDictionary = new MyDictionary<int, string>();
-            myDictionary.Add(12, "Çağdaş Sarıgil");
-            myDictionary.Add(57, "Berk Yeteroğlu");
+            myDictionary.Add(12, "Çağdaş S");
+            myDictionary.Add(57, "Özgür S ");
             myDictionary.ShowKeys();
             myDictionary.ShowValues();
             
